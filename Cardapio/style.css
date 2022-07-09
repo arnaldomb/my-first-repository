@@ -1,0 +1,14 @@
+body {
+  font-family: system-ui;
+ 
+  margin-bottom: -5px;
+  background-color: darkgreen !important;
+  color: white;
+  text-align: center;
+}
+#id1 {
+  background: blue;
+}
+#id2 {
+  background: green;
+}
