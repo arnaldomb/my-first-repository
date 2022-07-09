@@ -1,0 +1,25 @@
+body {background-color: rgb(253, 253, 253);}
+  
+  h1 {color: rgb(253, 253, 253);text-align: left;}
+  h2 {color: rgb(9, 221, 73);text-align: left;}
+  h3 {color: rgb(221, 9, 90);text-align: left;}
+  h4 {color: rgb(221, 9, 9);text-align: left;}
+  h5 {color: rgb(9, 221, 193);text-align: left;}
+  h6 {color: rgb(207, 221, 9);text-align: left;}
+
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
